@@ -1,4 +1,4 @@
-# 📘 Dokumentasi Skema Database
+# Dokumentasi Skema Database
 
 ## Sistem Reservasi Ruang Rapat
 
